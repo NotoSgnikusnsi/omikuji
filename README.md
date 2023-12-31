@@ -2,13 +2,19 @@
 
 ## 概要
 
-このプロジェクトは、Denoを使用したWebサーバーのテンプレートです。
+おみくじひけるぞ。
 
 ## 必要なもの
 
 - Deno
 
 ## セットアップ
+
+### Deploy
+
+[Deno Deploy](https://new-year-omikuji.deno.dev/)
+
+### cmd
 
 ```sh
 git clone <リポジトリのURL>

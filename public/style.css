@@ -1,3 +1,28 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  display: grid;
+  place-items: center;
+  gap: 10px;
+  height: 100svh;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#button {
+  padding: 10px 20px;
+}
+
+#unse {
+  text-align: center;
+  margin-bottom: 10px;
+  min-height: 100px;
+}
+
+#message {
+  text-align: center;
+  margin-top: 10px;
+  min-height: 100px;
+}
